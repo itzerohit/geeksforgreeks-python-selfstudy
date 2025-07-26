@@ -1,0 +1,19 @@
+Print Square
+Difficulty: BasicAccuracy: 50.65%Submissions: 12K+Points: 1
+Given an integer n, write a program to print the square of size n using "*" character. 
+
+Examples :
+
+Input: n = 4
+Output:
+* * * *
+*     *
+*     *
+* * * *
+Explanation: It's a square! Each side contains n = 4 .
+Input: n = 3
+Output:
+* * * 
+*   *
+* * *
+Explanation: It's a square! Each side contains n = 3 .
